@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- I am a biologist and love bats 🦇
+
+- I am also currently learning more about Data Science!
+
 <!--
 **CarolinMundinger/CarolinMundinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
